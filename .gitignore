@@ -1,0 +1,14 @@
+# Database config
+config.php
+.env
+
+# Uploads (patient files, images, reports)
+uploads/
+storage/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
